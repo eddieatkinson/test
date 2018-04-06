@@ -9,15 +9,6 @@ import { approve, camera, checklist, map, pastDue, reject, share } from '../../i
 import { backGray, iconGray, darkBlue, offWhite } from '../../utilities';
 
 const styles = {
-  container: {
-    flexDirection: 'column',
-    // height: 0.345 * Dimensions.get('window').width,
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    backgroundColor: 'white',
-    borderBottomColor: backGray,
-    borderBottomWidth: 1,
-  },
   info: {
     // flex: 2,
     flexDirection: 'row',
