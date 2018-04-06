@@ -28,16 +28,7 @@ const styles = {
     alignItems: 'center',
     padding: 10,
   },
-  imageContainer: {
-    height: 0.147 * Dimensions.get('window').width,
-    width: 0.147 * Dimensions.get('window').width,
-    borderRadius: (0.147 * Dimensions.get('window').width) / 2,
-    justifyContent: 'center',
-    alignItems: 'center',
-    alignSelf: 'center',
-    borderWidth: 1,
-    borderColor: iconGray,
-  },
+  hello
   image: {
     height: '100%',
     width: '100%',
